@@ -8,6 +8,8 @@ Circuito en thinkercad
 
 1.- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
+![WhatsApp Image 2023-01-05 at 12 39 52](https://user-images.githubusercontent.com/116687152/210902613-8850b476-ba7f-4b7b-8967-5694f139963f.jpeg)
+
 ![image](https://user-images.githubusercontent.com/116687152/210889601-0517898b-2480-4048-9ee7-1e4e3123a921.png)
 
 2.- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
